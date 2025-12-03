@@ -1,6 +1,6 @@
 import express from 'express';
 import cors from "cors";
-import { ErrorMiddleware } from '@middlewares/error-middleware';
+import { ErrorMiddleware } from '@multi-vendor-ecommerce/shared-backend';
 import cookieParser from 'cookie-parser';
 
 const app = express();
@@ -18,7 +18,7 @@ app.get('/signin', (req, res) => {
     res.send({ message: 'Welcome, Signin to auth-service!' });
 });
 
-app.use(ErrorMiddleware)
+app.use(ErrorMiddleware);
 
 const port = process.env.PORT || 6001;
 

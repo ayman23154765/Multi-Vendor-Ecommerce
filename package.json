@@ -55,6 +55,7 @@
     "api-gateway",
     "api-gateway-e2e",
     "auth-service",
-    "auth-service-e2e"
+    "auth-service-e2e",
+    "libs/shared-backend"
   ]
 }

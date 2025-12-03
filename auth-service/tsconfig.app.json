@@ -7,8 +7,8 @@
     "tsBuildInfoFile": "dist/tsconfig.app.tsbuildinfo"
   },
   "include": [
-    "src/**/*.ts", 
-    "../packages/**/*.ts"
+    "src/**/*.ts",
+    "../libs/**/*.ts" // neede for shared libs
   ],
   "exclude": [
     "out-tsc",
@@ -20,5 +20,10 @@
     "eslint.config.js",
     "eslint.config.cjs",
     "eslint.config.mjs"
+  ],
+  "references": [
+    {
+      "path": "../libs/shared-backend/tsconfig.lib.json"
+    }
   ]
 }
