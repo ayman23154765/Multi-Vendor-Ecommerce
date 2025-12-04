@@ -7,6 +7,8 @@ out-tsc
 
 # dependencies
 node_modules
+managed_context/
+test_suite_analysis/
 
 # IDEs and editors
 /.idea
