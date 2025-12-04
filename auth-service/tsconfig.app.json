@@ -8,7 +8,7 @@
   },
   "include": [
     "src/**/*.ts",
-    "../libs/**/*.ts" // neede for shared libs
+    "../libs/shared-backend/**/*.ts" // neede for shared libs
   ],
   "exclude": [
     "out-tsc",
